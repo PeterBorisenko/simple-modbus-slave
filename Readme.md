@@ -32,5 +32,5 @@ The second is hardware timer which will run in one-shot mode. Software/Virtual t
 * See an example in example folder.
 
 `warning` Only 2 Modbus functions are currently implemented: READ HOLDING REGISTERS and WRITE SINGLE REGISTER,
-which is enough in most situations.
+which is enough in most situations.<br>
 `warning` Only static address are used in this version (Reading and assigning device address at initialization stage)
